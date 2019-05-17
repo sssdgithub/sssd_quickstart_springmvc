@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_fileupload" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_imageserver" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_interceptor" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_quickstart" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_response" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_whole" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springmvc_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_response/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_fileupload/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_imageserver/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_whole/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+com\sssd\springmvc\interceptor\MyInterceptor.class
+com\sssd\springmvc\controller\InterceptorController.class
+com\sssd\springmvc\exception\SysException.class
+com\sssd\springmvc\controller\ExceptionController.class
+com\sssd\springmvc\exception\SysExceptionResolver.class

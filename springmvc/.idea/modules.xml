@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/springmvc.iml" filepath="$PROJECT_DIR$/.idea/springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_fileupload/springmvc_fileupload.iml" filepath="$PROJECT_DIR$/springmvc_fileupload/springmvc_fileupload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_imageserver/springmvc_imageserver.iml" filepath="$PROJECT_DIR$/springmvc_imageserver/springmvc_imageserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_interceptor/springmvc_interceptor.iml" filepath="$PROJECT_DIR$/springmvc_interceptor/springmvc_interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_quickstart/springmvc_quickstart.iml" filepath="$PROJECT_DIR$/springmvc_quickstart/springmvc_quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_response/springmvc_response.iml" filepath="$PROJECT_DIR$/springmvc_response/springmvc_response.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_whole/springmvc_whole.iml" filepath="$PROJECT_DIR$/springmvc_whole/springmvc_whole.iml" />
+    </modules>
+  </component>
+</project>

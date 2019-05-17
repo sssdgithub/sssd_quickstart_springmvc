@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springmvc_fileupload" />
+        <module name="springmvc_imageserver" />
+        <module name="springmvc_interceptor" />
+        <module name="springmvc_quickstart" />
+        <module name="springmvc_response" />
+        <module name="springmvc_whole" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springmvc_fileupload" target="1.8" />
+      <module name="springmvc_imageserver" target="1.8" />
+      <module name="springmvc_interceptor" target="1.5" />
+      <module name="springmvc_quickstart" target="1.5" />
+      <module name="springmvc_response" target="1.8" />
+      <module name="springmvc_whole" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
